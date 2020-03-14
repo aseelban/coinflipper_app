@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/coinflipper_app/static/css/main.7f371d0a.chunk.css",
-    "main.js": "/coinflipper_app/static/js/main.0eedcdd5.chunk.js",
-    "main.js.map": "/coinflipper_app/static/js/main.0eedcdd5.chunk.js.map",
+    "main.js": "/coinflipper_app/static/js/main.771f597d.chunk.js",
+    "main.js.map": "/coinflipper_app/static/js/main.771f597d.chunk.js.map",
     "runtime-main.js": "/coinflipper_app/static/js/runtime-main.cbf828e9.js",
     "runtime-main.js.map": "/coinflipper_app/static/js/runtime-main.cbf828e9.js.map",
     "static/js/2.6ef6f0e1.chunk.js": "/coinflipper_app/static/js/2.6ef6f0e1.chunk.js",
     "static/js/2.6ef6f0e1.chunk.js.map": "/coinflipper_app/static/js/2.6ef6f0e1.chunk.js.map",
     "index.html": "/coinflipper_app/index.html",
-    "precache-manifest.1a7e9969e54673440a60fa27d9ab4314.js": "/coinflipper_app/precache-manifest.1a7e9969e54673440a60fa27d9ab4314.js",
+    "precache-manifest.7ba8eb3f2a63466737cb52c13879540a.js": "/coinflipper_app/precache-manifest.7ba8eb3f2a63466737cb52c13879540a.js",
     "service-worker.js": "/coinflipper_app/service-worker.js",
     "static/css/main.7f371d0a.chunk.css.map": "/coinflipper_app/static/css/main.7f371d0a.chunk.css.map",
     "static/js/2.6ef6f0e1.chunk.js.LICENSE.txt": "/coinflipper_app/static/js/2.6ef6f0e1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cbf828e9.js",
     "static/js/2.6ef6f0e1.chunk.js",
     "static/css/main.7f371d0a.chunk.css",
-    "static/js/main.0eedcdd5.chunk.js"
+    "static/js/main.771f597d.chunk.js"
   ]
 }
