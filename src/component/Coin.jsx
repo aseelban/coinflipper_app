@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { choice } from "./helpers";
-import Coin_ui from './Coin_ui'
+import CoinIg from './CoinIg'
 import './coin.css';
 
 
@@ -43,7 +43,7 @@ class Coin extends Component {
         return ( 
             <div className="main">                
                 <h2>Let's Flip A Coin!</h2>
-                {this.state.currCoin && <Coin_ui info={this.state.currCoin} />}
+                {this.state.currCoin && <CoinIg info={this.state.currCoin} />}
                 <button onClick={this.handleClick}>Click</button>
                 <p>Out of <span>{this.state.clickCount}</span> flips. there have been <span>{this.state.nHeads}</span> heads. and <span>{this.state.nTails}</span> tails</p>
             </div>
